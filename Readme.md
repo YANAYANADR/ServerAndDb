@@ -1,0 +1,1 @@
+Parse news and enter them into database
